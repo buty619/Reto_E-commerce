@@ -70,4 +70,8 @@ Para agregar el evento al botón "add to cart" debemos seguir estos pasos:
 3. Agregar el evento para emitir la ventana de alerta con el mensaje `se tiene agregados ${numero de elementos agregados} con valor total ${el precio del producto multiplicado por la cantidad}`.
 4. Si el valor es negativo, emitir una alerta con el mensaje "valores negativos no permitidos".
 
+### 🗒 NOTAS:
+
+para ver el comportamiento esperado de nuestra pagina en la carpeta [img](https://github.com/buty619/Reto_E-commerce/tree/main/img), podras ver el video `home.mov` que muestra el comportamiento esperado de la pagina principal y `detail.mov` que muestra el comportamiento esperado de la pagina de detalle del producto.
+
 # ✨¡Listo! Ya hemos completado el proceso para obtener y mostrar la información del producto a través de una API.
