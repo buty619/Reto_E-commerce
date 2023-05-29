@@ -44,7 +44,7 @@ npm install
 
 ✅ listo con estos pasos estas listo para iniciar tu reto mucha suerte ¡¡¡
 
-### 🗒 Estructura del reto (MODIFICAR)
+### 🗒 Estructura del reto
 
 En este repositorio encontraras una carpeta con el nombre [page](https://github.com/buty619/Reto_E-commerce/tree/main/page) esta contiene 3 archivos:
 
