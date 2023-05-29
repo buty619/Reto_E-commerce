@@ -1339,13 +1339,10 @@ iframe {
   text-align: center;
 }
 .wsk-cp-text .title-product h3 {
-  font-size: 20px;
+  font-size: 18px;
   font-weight: bold;
   margin: 15px auto;
-  overflow: hidden;
-  white-space: nowrap;
-  text-overflow: ellipsis;
-  width: 100%;
+  width: auto;
 }
 .wsk-cp-text .description-prod p {
   margin: 0;

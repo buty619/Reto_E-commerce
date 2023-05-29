@@ -27,7 +27,7 @@ const init = async () => {
         <span>${category}</span>
       </div>
       <div class="title-product">
-        <h3>My face not my heart</h3>
+        <h3>${title}</h3>
       </div>
       <div class="description-prod">
         <p>

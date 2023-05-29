@@ -68,6 +68,26 @@ ademas de estas carpetas podrás ver otros archivos como:
 
 no te preocupes por estos archivos ellos realizan un trabajo de configuración de nuestro reto y no es necesario profundizar en ellos.
 
+### :gear: como hacer el setup del reto, correrlo y validar los cambios:
+
+para poder correr este reto localmente debes correr en tu shell el comando
+
+```bash
+npm run start
+```
+
+esto inicia un servidor que corre nuestra pagina web y el cual detectara y actualizara los cambios que hagamos en el proyecto, luego abre en tu browser favorito ve a la url:
+
+```bash
+http://127.0.0.1:8080/
+```
+
+deberás ver algo como lo que se muestra a continuación
+
+<p align="center">
+  <img src="./img/homePage.png"/>
+</p>
+
 ### 🚀 ¿Como saber si complete el reto?
 
 luego que hayas leído las instrucciones y hayas puesto a prueba todo tu conocimiento la manera correcta de saber si resolviste el reto es escribiendo estos comandos en tu shell:

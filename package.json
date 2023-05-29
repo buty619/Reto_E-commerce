@@ -12,9 +12,10 @@
     "url": "git+https://github.com/buty619/Reto_E-commerce.git"
   },
   "keywords": [
-    "ubits",
-    "reto",
-    "javascript"
+    "javascript",
+    "API",
+    "DOM",
+    "Ubits"
   ],
   "author": "Cristian Buitrago",
   "license": "ISC",
